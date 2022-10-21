@@ -1,0 +1,18 @@
+body
+{
+background-color: #f00;
+}
+h3
+{
+font-weight: bold;
+font-size: 20px;
+color: #F00;
+width:200px ;
+height: 30px; ;
+border: 1px solid red;
+border-radius: 5px;
+}
+p
+{
+color: #00F;
+}
